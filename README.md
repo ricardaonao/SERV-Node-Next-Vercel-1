@@ -45,8 +45,10 @@ Se já enviou seu projeto para Vercel, basta acessar o link fornecido pela Verce
 **No meu caso, o link é este abaixo. Veja essa aplicação funcionando, clicando nele**.** <br> <br>
 https://serv-node-next-vercel-1.vercel.app/api/ceps<br>
 
->Dica : Para ver sua API neste formato como está o meu, você precisa instalar em seu Chrome uma extenção chamada **JSON Viewer**..<br>
+>Dica : Para ver sua API neste formato como está o meu, você precisa instalar em seu Chrome uma extenção chamada:  *JSON Viewer*. Ou Usar o *Insomnia* que simula todas as requisições e métodos para você. 👇<br>
 
+
+![Print API](https://serv-node-next-vercel-1.vercel.app/api_next.PNG)
 
 ## Conclusão 🏆
 Sem Express, ou qualquer outro cliente HTTP, podemos implantar uma API profissional . Isso por que o Next.js junto com a Vercel, possuem um Backend preparado para isso. Toda parte trabalhosa  e sistemática, já foi feita. Daqui, basta apenas colocar todas suas APIs dentro da pasta **API**, o resto já está pronto, inclusiste as rotas. E sim, você pode usar outro cliente Http com o Next.js, comunicar com banco de dados, etc. **Next está pronta para atender qualquer demanda!**
