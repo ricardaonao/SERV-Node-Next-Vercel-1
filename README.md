@@ -1,4 +1,4 @@
-# Criando API com Next.js e hospedando  Vercel
+# Criando API com Next.js e hospedando na Vercel
 ## Objetivo deste código 🎯
 Criar uma API de dados estáticos em formato .json, utilizando o cliente HTTP integrado do **Next.js** e hospedando na **Vercel**. 
 
