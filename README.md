@@ -25,8 +25,7 @@ Após isso , suba a aplicação para um novo repositório em seu GitHub.
 <br>
 
 ## Configurando Ambiente no Backend - Vercel 📕
-Antes, clone esta aplicação para seu repositório no Github, pois a Vercel irá identificar seus repositórios automaticamente no Git e sugerir que seu novo projeto (hospedagem) seja feito apartir do repositório que você escolher no Github, e com 1 clique sua aplicação já estará rodando em produrção com **segurança e certificado digital** 🤯. Prático não?<br><br>
-Se você não conhce a Vercel, esta é a sua oportunidade. A Vercel é simplismente **magnifica**!! Rode aplicações **SSR (Server Side Rendering)** com alta performance gratuitamente. E se precisar escalar, ela está pronta para isso com custo acessível. **Então vamos lá!**<br><br>
+Antes, clone esta aplicação para seu repositório no Github, pois a Vercel irá identificar seus repositórios automaticamente no Git e sugerir que seu novo projeto (hospedagem) seja feito apartir do repositório que você escolher no Github, e com 1 clique sua aplicação já estará rodando em ambiente de produção com **segurança, certificado digital e pronta para ser escalada** 🤯. Prático não?<br><br>
 Acesse >> www.vercel.com <br><br>
 
 Se ja tiver conta, faça o login, se não tiver, crie sua conta, é gratuita. Após isso em seu *"Dashboard"*, clique em *"New Project"*, selecione de onde quer importar seus repositórios. Escolha Github, autorize a comunicação da Vercel com a API da *Github*. Em seguida serão listados todas suas dependências no Github. Escolha este projeto que você clonou, clique em *"Import"*, clique em *"Select"* em sua conta, dê um nome para seu projeto, e finalize clicando em *"Deploy"*. <br> irá aparecer uma mensagem: *"Congratulations! Your project has been successfully deployed"*.<br><br>
